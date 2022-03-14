@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Jaaychi
-- 👀 I’m interested in building fullstack web applications or any kind of software applications. Feel free to check out my front end projects along with my backend projects! I also have a couple vanilla javascript projects. 
-- 🌱 I’m currently learning Ruby & Ruby on Rails. The next programming languages I will learn is Java and Python. 
-- 💞️ I’m looking to collaborate on a big team of developers and learn as much as possible. 
+- 👋 Hi, I’m @Jaaychi. I am a seasoned Data Analyst with the ability to wrangle data and build data applications.
+- 👀 I enjoy building front-end applications on my free time. Feel free to check out my front end project called "Life of Jeffrey"
+- 🌱 I’m currently learning Python. The next programming languages I will learn is Java.  
 - 📫 You can reach me at thejeffreychi@gmail.com
 
 <!---
